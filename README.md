@@ -1,1 +1,6 @@
-This is my project and will be updated over time
+Project Name: NyumbaSync
+
+AUTHORS: Vincent Mokua <mokua.vinny@gmail.com>
+
+Project Description
+
