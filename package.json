@@ -7,8 +7,7 @@
     "start": "node server.js",
     "dev": "nodemon server.js",
     "build": "echo 'No build step'",
-    "test": "jest",
-    "nyumba": "Running"
+    "test": "jest"
   },
   "dependencies": {
     "express": "^4.18.2",
